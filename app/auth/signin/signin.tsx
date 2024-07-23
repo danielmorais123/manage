@@ -54,7 +54,7 @@ export default function SignIn() {
           </div> */}
           <div>
             <a href="/auth/signup" className="text-xs">
-              Don't have an account yet?
+              Dont have an account yet?
             </a>
           </div>
           <div>
